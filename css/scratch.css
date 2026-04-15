@@ -4,6 +4,9 @@ body {
             color: #555555;
             background-color: rgb(240, 240, 171);
         }
+            img { 
+             float: right;
+            }
         li {
             font-size: 14px;
             font-style: italic;
